@@ -1,0 +1,3 @@
+- DOMAIN-SUFFIX,npln.srv.nintendo.net,DIRECT
+- DOMAIN-SUFFIX,n.n.srv.nintendo.net,DIRECT
+- DOMAIN-SUFFIX,nintendo.net,Proxy

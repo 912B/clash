@@ -1,0 +1,28 @@
+payload:
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,Folx.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,Transmission.exe
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,WebTorrent Helper.exe
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN-KEYWORD,aria2
+  - PROCESS-NAME,DownloadService.exe
+  - PROCESS-NAME,Weiyun.exe
+  - PROCESS-NAME,baidunetdisk.exe
+  - DOMAIN-SUFFIX,assets1.xboxlive.com
+  - DOMAIN-SUFFIX,assets2.xboxlive.com
+  - DOMAIN-SUFFIX,d1.xboxlive.com
+  - DOMAIN-SUFFIX,d2.xboxlive.com
+  - DOMAIN-SUFFIX,xboxd1.s.loris.llnwd.net
+  - DOMAIN-SUFFIX,xboxd2.s.loris.llnwd.net
+  - DOMAIN-SUFFIX,xvcf1.xboxlive.com
+  - DOMAIN-SUFFIX,xvcf2.xboxlive.com
+  - DOMAIN-SUFFIX,xbl-smooth.xboxlive.com
+  - DOMAIN-SUFFIX,compass.xboxlive.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - IP-CIDR,34.213.147.149/32,no-resolve

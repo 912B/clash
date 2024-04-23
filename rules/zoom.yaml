@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,zoom.us 
+  - DOMAIN-SUFFIX,cloudfront.net 
+  - DOMAIN-SUFFIX,zoomnow.net.

@@ -26,3 +26,5 @@ payload:
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - IP-CIDR,34.213.147.149/32,no-resolve
+  - IP-CIDR,199.232.210.172/32,no-resolve
+  - IP-CIDR,23.204.146.138/24,no-resolve

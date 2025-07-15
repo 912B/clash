@@ -725,3 +725,9 @@ payload:
   - PROCESS-NAME,com.google.android.gsf
   - PROCESS-NAME,com.google.android.play.games
   - PROCESS-NAME,BackupandSync
+  - DOMAIN,www.googleapis.com
+  - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,drive.google.com
+  - DOMAIN-SUFFIX,googledrive.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - PROCESS-NAME,BackupandSync

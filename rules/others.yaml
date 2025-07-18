@@ -1,3 +1,4 @@
 payload:
   - IP-CIDR,159.148.147.251/24,no-resolve
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,patreon.com

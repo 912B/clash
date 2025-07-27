@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,mcxyz.ru
-  - DOMAIN-SUFFIX,emperorservers.com
   - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,https://acstuff.ru/
+  - DOMAIN-SUFFIX,acstuff.ru
   

@@ -5,4 +5,4 @@ payload:
   - DOMAIN-SUFFIX,mcxyz.ru
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,acstuff.ru
-  
+  - DOMAIN-SUFFIX,openweathermap.org

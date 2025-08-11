@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,acstuff.ru
   - DOMAIN-SUFFIX,openweathermap.org
+  - DOMAIN-SUFFIX,proxmox.com
+  - DOMAIN-SUFFIX,debian.org
+  

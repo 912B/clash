@@ -9,4 +9,5 @@ payload:
   - DOMAIN-SUFFIX,openweathermap.org
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,crazygames.com
   

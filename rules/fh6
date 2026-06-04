@@ -1,0 +1,19 @@
+payload:
+  # 游戏开发商及核心后端
+  - DOMAIN-SUFFIX,forza.net
+  - DOMAIN-SUFFIX,forzamotorsport.net
+  - DOMAIN-SUFFIX,playgroundgames.com
+  - DOMAIN-SUFFIX,turn10studios.com
+  
+  # 游戏匹配与服务器遥测
+  - DOMAIN-KEYWORD,forza-
+  - DOMAIN-KEYWORD,turn10-
+  - DOMAIN,fh6.content.online.forzamotorsport.net
+  - DOMAIN,fh6.api.forzamotorsport.net
+  
+  # 游戏内社交、涂装与地图数据加载
+  - DOMAIN-SUFFIX,cdn.forzamotorsport.net
+  - DOMAIN-SUFFIX,assets.forza.net
+  
+  # 解决部分地区加载慢的 CDN 域名
+  - DOMAIN-SUFFIX,azureedge.net

@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,forzamotorsport.net
   - DOMAIN-SUFFIX,playgroundgames.com
   - DOMAIN-SUFFIX,turn10studios.com
+  - DOMAIN-SUFFIX,gameservices.fh6.forzamotorsport.net
   
   # 游戏匹配与服务器遥测
   - DOMAIN-KEYWORD,forza-

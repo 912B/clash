@@ -23,3 +23,22 @@ payload:
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   
+  # ===== OpenAI / ChatGPT =====
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-KEYWORD,openai
+  # ===== Anthropic / Claude =====
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+
+  # ===== GitHub Copilot =====
+  - DOMAIN-SUFFIX,copilot.github.com
+  - DOMAIN-SUFFIX,githubcopilot.com
+
+  # ===== Cursor =====
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com
